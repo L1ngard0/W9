@@ -1,0 +1,3 @@
+﻿  task2.cpp
+C:\Users\dnsuser\source\repos\TemplateTask5\task2\task2.cpp(10,9): warning C4101: a: неиспользованная локальная переменная
+  task2.vcxproj -> C:\Users\dnsuser\source\repos\TemplateTask5\x64\Debug\task2.exe

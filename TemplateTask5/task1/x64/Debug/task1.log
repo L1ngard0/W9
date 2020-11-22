@@ -1,0 +1,15 @@
+﻿  task1.cpp
+C:\Users\dnsuser\source\repos\TemplateTask5\task1\queue.h(33,1): warning C4311: <function-style-cast>: усечение указателя из "T" в "int"
+          with
+          [
+              T=const char *
+          ]
+C:\Users\dnsuser\source\repos\TemplateTask5\task1\queue.h(32): message : во время компиляции функции-члена класс шаблон "void Queue<const char *>::pop(void)"
+C:\Users\dnsuser\source\repos\TemplateTask5\task1\task1.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Queue<const char *>::pop(void)"
+C:\Users\dnsuser\source\repos\TemplateTask5\task1\task1.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Queue<const char *>"
+C:\Users\dnsuser\source\repos\TemplateTask5\task1\queue.h(33,1): warning C4302: <function-style-cast>: усечение из "T" к "int"
+          with
+          [
+              T=const char *
+          ]
+  task1.vcxproj -> C:\Users\dnsuser\source\repos\TemplateTask5\x64\Debug\task1.exe
